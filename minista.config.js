@@ -3,7 +3,7 @@ import path from "path"
 
 export default defineConfig({
   root: "",
-  base: "/",
+  base: "/Order-summary-card/",
   public: "public",
   out: "dist",
   assets: {
